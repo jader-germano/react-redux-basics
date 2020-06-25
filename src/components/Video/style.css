@@ -1,0 +1,5 @@
+#video-page {
+    display: flex;
+    align-items: flex-end;
+    align-content: flex-start;
+}

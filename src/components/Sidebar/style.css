@@ -1,0 +1,5 @@
+.aside {
+    display: flex !important;
+    align-items: flex-end;
+    align-content: flex-start;
+}
